@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "assPNOfxoWw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\docfillTest\\docfillTest\\docfill\\docfill.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
